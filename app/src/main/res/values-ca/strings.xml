@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Questionari</string>
+    <string name="comprovar">COMPROVAR</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="missatge_correcte">Correcte!</string>
+    <string name="missatge_incorrecte">Incorrecte...</string>
+    <string name="SEGÜENT">SEGÜENT</string>
+    <string name="ACABA">ACABA</string>
+    <string name="ANTERIOR">ANTERIOR</string>
+    <string name="resultats">RESULTATS</string>
+    <string name="tornar_a_empezar">TORNAR A COMENÇAR</string>
+</resources>

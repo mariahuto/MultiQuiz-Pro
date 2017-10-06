@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Questionari</string>
+    <string name="pregunta">Pregunta:</string>
+    <string name="comprovar">COMPROVAR</string>
+    <string name="missatge_incorrecte">Incorrecte...</string>
+    <string name="missatge_correcte">Correcte!</string>
+    <string name="SEGÜENT">SEGÜENT</string>
+    <string name="ACABA">ACABA</string>
+    <string name="ANTERIOR" >ANTERIOR</string>
+    <string name="resultats">RESULTATS</string>
+    <string name="tornar_a_empezar">TORNAR A COMENÇAR</string>
+
+    <array name="totes_les_preguntes">
+        <item>Quina és la capital d\'Equador?;Lima;*Quito;Bogotà;Guayaquil</item>
+
+        <item>Com hauria d\'estar una persona per fer-li una autopsia correctament?;Sedada;En coma;*Morta;Dormida</item>
+
+        <item>Qui va pintar la Capella Sixtina?;Giorgio Vasari;Leonardo da Vinci;*Miguel Ángel;Tiziano</item>
+
+        <item>Quin actor ha fet més pel·lícules com a James Bond?;Pierce Brosnan;Sean Connery;Daniel Craig;*Roger Moore</item>
+
+        <item>Quin accident geogràfic es defineix com una pendent vertical abrupte?;Un barranc;
+            Una muntanya;*Un penya-segat;Un pont</item>
+
+        <item>Quina és la última prova en un decatló?;*1500 metres;Natació;Ciclisme;Marató</item>
+
+        <item>Quin és el tercer lema de la Revolució Francesa? \'Liberté, égalité,?\';Calme;L\'austérité;*Fraternité;Probabilité</item>
+
+        <item>Quin compositor de música era esquerrà?;*Beethoven;Mozart;Bach;Vivaldi</item>
+
+        <item>Quina ciutat va quedar dividida en dos després de la II Guerra Mundial?;
+            París;*Berlín;Amsterdam;Varsòvia</item>
+
+        <item>Com es diu la tècnica que consisteix en baixar la temperatura corporal als -190ºC?;*Criogenització;Congelació;Shock;Solidificació</item>
+
+        <item>Quin pilot de carreres va morir l\'any 2011?;Hector Barberà;*Marco Simocelli;Pablo Motos;Ángel Nieto</item>
+
+        <item>Com es diu el primer fill d\'en Goku a \'Bola de Drac\'?;Goten;Trunks;*Gohan;Vegetta</item>
+
+    </array>
+
+</resources>
